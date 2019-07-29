@@ -1,0 +1,7 @@
+http://greggordon.org/java/tij4/solutions.htm   //Java编程思想
+https://algs4.cs.princeton.edu/home/    //算法
+http://www.mybatis.org/mybatis-3/zh/getting-started.html //mybatis教程
+https://git-scm.com/book/zh/v2   //git教程
+www.oracle.com/technetwork/java/langenv-140151.html //java白皮书
+
+?useSSL=false&useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
